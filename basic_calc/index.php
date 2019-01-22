@@ -2,7 +2,7 @@
 <html>
 <head>
 <title> Calculator  </title>
-<meta name="author" content="CSE323 PRACTICAL">
+<meta name="author" content="Umah Chukwudi">
 <meta charset="utf-8">
 <link rel="shortcut icon" href="images/ic_blur_linear.png" type="image/x-icon" >
 <link rel="stylesheet" href="css/calc.css" type="text/css">
